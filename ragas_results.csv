@@ -1,0 +1,3 @@
+user_input,retrieved_contexts,response,reference,llm_context_precision_with_reference,context_recall,faithfulness,answer_relevancy
+What is the main objective of this document?,"['2. Business Objectives', 'Evidence: [short excerpt from the document]', '1. Executive Summary', '3. Scope and Initial Capabilities']",I could not find this information in the uploaded document.,ADD THE CORRECT ANSWER FROM YOUR DOCUMENT,,,,
+What are the key topics discussed in this document?,"['1. Executive Summary', 'Evidence: [short excerpt from the document]', '10. Suggested Project Structure', '17. Development Roadmap']",I could not find this information in the uploaded document.,ADD THE CORRECT ANSWER FROM YOUR DOCUMENT,,,,
